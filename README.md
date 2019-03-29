@@ -25,7 +25,7 @@ npm install
 ```
 
 You can use any static server of your choice to serve the files for the webpage.
-Additionally, [webpack](http://www.dropwizard.io/1.0.2/docs/) may be used for compiling the source code
+Additionally, [webpack](https://webpack.js.org/) may be used for compiling the source code
 and package it into a few files (friendlier with download speed for the webpage).
 
 **This prototype needs for an ElasticSearch database**
